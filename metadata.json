@@ -1,0 +1,6 @@
+{
+  "name": "INDChat",
+  "description": "End-to-end encrypted messaging, secure text chats, high-fidelity simulated voice/video calls, and custom status updates with modern Slate design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
